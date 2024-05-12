@@ -1,3 +1,5 @@
+![telegram-cloud-photo-size-2-5334678045870645458-y](https://github.com/zlata-bond/Project_X/assets/131922400/ad245629-57be-469e-a58d-2a93248a37a1)
+
 # Project_X
 
 Проект посвящен фильмам, так как их любят все.
