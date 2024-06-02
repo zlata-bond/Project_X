@@ -9,6 +9,7 @@
 Изначально мы использовали два датасета, которые соединили, подготовили к работе и т.д., но потом поняли, что после этих манипуляций у нас осталось только 226 фильмов, что указывало на то, что нехватка данных может стать главной проблемой при машинном обучении. Поэтому было принято решение менять исходный датасет.
 
 Ссылка на используемый датасет - https://www.kaggle.com/datasets/isaactaylorofficial/imdb-10000-most-voted-feature-films-041118
+https://github.com/zlata-bond/Project_X/blob/main/Final_Project2.ipynb - Финальная часть проекта 
 
 
 https://github.com/zlata-bond/Project_X/blob/main/Project_X_final.ipynb - первая часть
